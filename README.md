@@ -6,7 +6,7 @@ Members: Nick Pistolis and Henry Latshaw
 https://nppg3c.axosoft.com/
 
 
-#How to play:
+# How to play:
 
 Player 1 uses wasd
 
