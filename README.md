@@ -3,6 +3,7 @@ SE final Project
 
 Members: Nick Pistolis and Henry Latshaw 
 
+# Axosoft
 https://nppg3c.axosoft.com/
 
 
@@ -16,8 +17,8 @@ Goal of the game is to collect dots to grow and outlast and out maneuver your op
 
 # Example gameplay:
 
-https://www.youtube.com/edit?o=U&video_id=p5teA7mJnI8
+Example tie: https://www.youtube.com/watch?v=FHqDR8Pflzo
 
-https://www.youtube.com/edit?o=U&video_id=zyHQbLFt9Qc
+Example win:https://www.youtube.com/watch?v=zyHQbLFt9Qc
 
-https://www.youtube.com/edit?o=U&video_id=FHqDR8Pflzo
+Example lose:https://www.youtube.com/watch?v=p5teA7mJnI8
