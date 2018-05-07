@@ -19,6 +19,6 @@ Goal of the game is to collect dots to grow and outlast and out maneuver your op
 
 Example tie: https://www.youtube.com/watch?v=FHqDR8Pflzo
 
-Example Player collision:https://www.youtube.com/watch?v=zyHQbLFt9Qc
+Example player collision:https://www.youtube.com/watch?v=zyHQbLFt9Qc
 
-Example self-collision:https://www.youtube.com/watch?v=p5teA7mJnI8
+Example self collision:https://www.youtube.com/watch?v=p5teA7mJnI8
